@@ -1,19 +1,16 @@
-### Hi there 👋
+## Hi, I'm Yipu Dou
 
-<!--
-**douyipu/douyipu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+
+My name is 窦一蒲.
 
 Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning SICP (Structure and Interpretation of Computer Program).
+- 📫 How to reach me: douyipu@gmail.com
+- 😄 Music: 万能青年旅店 朴树 崔健 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my Chinese blog: [douyipu.github.io](https://douyipu.github.io/)
 
 ### Coding Life
 
