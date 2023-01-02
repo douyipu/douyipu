@@ -15,6 +15,7 @@ Welcome to my Chinese blog: [douyipu.github.io](https://douyipu.github.io/)
 ### Coding Life
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=douyipu&count_private=true&show_icons=true&include_all_commits=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=douyipu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douyipu&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
 
